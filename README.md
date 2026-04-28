@@ -21,8 +21,10 @@ The network utilizes a **Star Topology** for easy management and high availabili
 * **Firewalls:** Set up with Access Control Lists (ACLs), Deep Packet Inspection, and Security Rules.
 * **Access Points (APs):** Configured with Wi-Fi 6 for high-speed wireless networking.
 * **Servers:** DNS, DHCP, File Storage, and VoIP servers for seamless internal communication.
+
 ## Router Configs
-![Network Topology](images/R1-GIG0.png)
+![R1-GIG0](images/R1-GIG0.png)
+
 ### VLAN Segmentation & IP Addressing
 | VLAN Name | Subnet | Purpose |
 | :--- | :--- | :--- |
