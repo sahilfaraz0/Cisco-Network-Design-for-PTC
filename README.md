@@ -3,6 +3,7 @@
 # Network Implementation, Optimization, and Maintenance for PTC Inc.
 
 **Author:** Sahil Faraz | **Date:** February 2025
+> **Academic Disclaimer:** This repository contains an academic project for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 9: Networking** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
 
 ![Network Topology](images/network-diagram.png)
 
